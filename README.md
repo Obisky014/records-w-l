@@ -9,16 +9,26 @@ We predict the final Serie A standings using the following approach:
 
 We use data for the 2023-2024 Serie A season up to the 15th matchday for each team,which was obtained from understat.com, which includes:
 Matches Played (MP)
+
 Wins (W)
+
 Draws (D)
+
 Losses (L)
+
 Goals For (GF)
+
 Goals Against (GA)
+
 Expected Goals (xG)
+
 Expected Goals Against (xGA)
+
 Goal Difference (GD)
+
 Points (PTS)
-Goal:
+
+# Goal:
 
 The model's aim is to predict the final standings based on the data from the first 15 matches.
 Steps:
